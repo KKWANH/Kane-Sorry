@@ -1,5 +1,6 @@
 <h1 align="center">[케인] 죄송합니다.</h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/35485904/122158440-a3544000-cea7-11eb-8f52-fa305ad4ca26.gif"></p>
+<p align="center"><img width="35%" src="https://user-images.githubusercontent.com/35485904/122158440-a3544000-cea7-11eb-8f52-fa305ad4ca26.gif">
+                  <img width="35%" src="https://user-images.githubusercontent.com/35485904/122160181-6d648b00-ceaa-11eb-8a84-ddbf6ac63fab.gif"></p>
 <hr>
 <h2 align="center">HOW TO USE</h2>
 <table align="center"><tbody>
